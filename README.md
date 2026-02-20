@@ -31,7 +31,7 @@ Check out the interactive [Neural Network Playground](https://dlmastery.github.i
 | 12 | **NumPy to TF/Keras Journey** | Translating NumPy code to TensorFlow/Keras. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/12_numpy_to_tensorflow_keras.ipynb) | [Watch](https://youtu.be/eBAKR4mzyiw) |
 | 13 | **Advanced TensorFlow** | Custom loops, `tf.function`, subclassing. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/13_advanced_tensorflow.ipynb) | [Watch](https://youtu.be/YPuwCYYo3EY) |
 | 14 | **Intro to JAX Neural Networks** | Building NNs with JAX (Flax/Haiku). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/14_intro_to_jax_nn.ipynb) | [Watch](https://youtu.be/YjoFbzI-prY) |
-| 15 | **Advanced JAX** | Parallelization with `pmap`, advanced `jit`. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/15_advanced_jax.ipynb) | [Watch](https://www.youtu.be/YcofrufH3L) |
+| 15 | **Advanced JAX** | Parallelization with `pmap`, advanced `jit`. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/15_advanced_jax.ipynb) | [Watch](https://youtu.be/YjoFbzI-prY) |
 
 ## 🚀 Getting Started
 
@@ -41,3 +41,4 @@ Check out the interactive [Neural Network Playground](https://dlmastery.github.i
 
 
 Happy Learning!
+
